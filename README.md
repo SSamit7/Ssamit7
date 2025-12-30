@@ -10,7 +10,7 @@
 
 - 🌱 Currently learning **Django, JavaScript & Backend concepts**
 - 🧩 Interested in **problem solving & logic building**
-- ⚽ Football fan (Real Madrid 🤍)
+- ⚽ Sports fan 
 - 📈 Improving every day through hands-on projects
 
 ---
@@ -22,12 +22,14 @@
 - Python
 - JavaScript
 - HTML, CSS
+- Tailwind 
 
 ### ⚙️ Frameworks & Tools
 - Django
 - Git & GitHub
 - VS Code
 - MinGW (C/C++)
+- React
 
 ---
 
@@ -42,7 +44,11 @@
   Front-end clone using HTML & CSS  
 
 - **Twitter Clone**  
-  UI clone of Twitter homepage  
+  UI clone of Twitter homepage
+
+ -**Item Tracker 
+  A tracker to track the exchange of Money for gold with real time intrest calculation 
+  For Mobile and PC
 
 ---
 
