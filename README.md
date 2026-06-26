@@ -9,7 +9,7 @@ My journey is defined by a commitment to strong technical fundamentals and the p
 ## 🛠️ Technical Arsenal
 
 - **Languages:** C, C++, Python, JavaScript (ES6+), HTML5, CSS3  
-- **Frontend & Styling:** React, Tailwind CSS  
+- **Frontend & Styling:** React, Tailwind CSS  ,Expo Go
 - **Backend & Databases:** Django, Python  
 - **Tools & Environment:** Git, GitHub, VS Code, MinGW (C/C++)
 
